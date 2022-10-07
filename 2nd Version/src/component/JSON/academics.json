@@ -1,0 +1,136 @@
+[
+    {
+       
+        "childrens": [
+
+            {
+                "title": "ACADEMIC VICE PRESIDENT",
+                
+            "childrens":[
+
+
+
+
+
+
+                {
+                    "title": "OFFICE OF GRADUATE PROGRAMS",
+                    "icon": "bi-info-circle-fill",
+                    "path": "/about/aastu-at-glance/map-and-directions"
+                },
+                {
+                    "title": "UNDERGRADUATE PROGRAM",
+                    "icon": "bi-info-circle-fill",
+                    "path": "/about/aastu-at-glance/media-release"
+                },
+                
+                {
+                    "title": "CONTINUING EDUCATION PROGRAM (CEP)",
+                    "icon": "bi-info-circle-fill",
+                    "path": "/about/aastu-at-glance/aastu-governance"
+                }
+                ,
+                
+                {
+                    "title": "STAFF DEVELOPMENT CENTER",
+                    "icon": "bi-info-circle-fill",
+                    "path": "/about/aastu-at-glance/aastu-governance"
+                },
+                
+                {
+                    "title": "LIBRARIES SERVICE DIRECTORATE",
+                    "icon": "bi-info-circle-fill",
+                    "path": "/about/aastu-at-glance/aastu-governance"
+                },
+                
+                {
+                    "title": "REGISTRAR",
+                    "icon": "bi-info-circle-fill",
+                    "path": "/about/aastu-at-glance/aastu-governance"
+                }
+            ]
+            },
+            {
+                "title": "COLLEGES",
+
+                "childrens":[
+
+
+
+
+
+                    {
+                        "title": "COLLEGE OF ARCHITECTURE AND CIVIL ENGINEERING",
+                        "icon": "bi-info-circle-fill",
+                        "path": "/about/aastu-at-glance/map-and-directions"
+                    },
+                    {
+                        "title": "COLLEGE OF BIOLOGICAL & CHEMICAL ENGINEERING",
+                        "icon": "bi-info-circle-fill",
+                        "path": "/about/aastu-at-glance/media-release"
+                    },
+                    
+                    {
+                        "title": "COLLEGE OF ELECTRICAL & MECHANICAL ENGINEERING",
+                        "icon": "bi-info-circle-fill",
+                        "path": "/about/aastu-at-glance/aastu-governance"
+                    }
+                    ,
+                    
+                    {
+                        "title": "COLLEGE OF SOCIAL & NATURAL SCIENCES",
+                        "icon": "bi-info-circle-fill",
+                        "path": "/about/aastu-at-glance/aastu-governance"
+                    }
+                    ,
+                    
+                    {
+                        "title": "COLLEGE OF APPLIED SCIENCES",
+                        "icon": "bi-info-circle-fill",
+                        "path": "/about/aastu-at-glance/aastu-governance"
+                    }
+                ]            },
+            {
+                "title": "REGISTRAR",
+
+                "childrens":[
+
+
+
+
+
+                    {
+                        "title": "ACADEMIC CALENDAR",
+                        "icon": "bi-info-circle-fill",
+                        "path": "/about/aastu-at-glance/map-and-directions"
+                    },
+                    {
+                        "title": "ADMISSION",
+                        "icon": "bi-info-circle-fill",
+                        "path": "/about/aastu-at-glance/media-release"
+                    },
+                    
+                    {
+                        "title": "APPLICATIONS",
+                        "icon": "bi-info-circle-fill",
+                        "path": "/about/aastu-at-glance/aastu-governance"
+                    }
+                    ,
+                    
+                    {
+                        "title": "FEES & COST SHARING",
+                        "icon": "bi-info-circle-fill",
+                        "path": "/about/aastu-at-glance/aastu-governance"
+                    }
+                    ,
+                    
+                    {
+                        "title": "TUITION & FEES",
+                        "icon": "bi-info-circle-fill",
+                        "path": "/about/aastu-at-glance/aastu-governance"
+                    }
+                    
+                ]            }
+        ]
+    }
+]

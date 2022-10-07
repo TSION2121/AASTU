@@ -1,0 +1,18 @@
+[ {
+  
+    "childrens": [
+        {
+            "title": "MAGAZINE",
+            "path": "/publication1"
+        },
+        {
+            "title": "E-JOURNALS",
+            "path": "/publication2"   
+        }
+        ,
+        {
+            "title": "E-RESOURCES",
+            "path": "/publication3"   
+        }
+    ]
+}]

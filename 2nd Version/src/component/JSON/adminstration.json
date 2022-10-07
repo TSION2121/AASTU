@@ -1,0 +1,268 @@
+[{
+   
+    "childrens": [
+        {
+            
+            "title": "PRESIDENT",
+            
+        "childrens":[
+
+
+
+
+
+
+
+
+
+            {
+                "title": "PRESIDENT’S SPECIAL ADVISOR",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/map-and-directions"
+            },
+            {
+                "title": "PRESIDENT OFFICE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "PUBLIC & INTER’AL RELATIONS",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "PLANNING AND BUDGET",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "LEGAL AFFAIRS",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "INTERNAL AUDIT",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "INST’L CHANGE & GOOD GOV’CE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "ETHICS & ANTI-CORRUPTION",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "GENDER & HIV/AIDS",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "INST’L QUALITY ASSURANCE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+        ]
+        },
+        {
+            "title": "ACADEMIC VICE PRESIDENT",
+            
+        "childrens":[
+
+
+
+
+
+
+            {
+                "title": "OFFICE OF GRADUATE PROGRAMS",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/map-and-directions"
+            },
+            {
+                "title": "UNDERGRADUATE PROGRAM",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "CONTINUING EDUCATION PROGRAM (CEP)",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "STAFF DEVELOPMENT CENTER",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            },
+            
+            {
+                "title": "LIBRARIES SERVICE DIRECTORATE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            },
+            
+            {
+                "title": "REGISTRAR",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+        ]
+        },
+        {
+            "title": "ADMINISTRATIVE AFFAIRS V/PRESIDENT",
+            
+        "childrens":[
+
+
+
+
+
+
+
+
+            {
+                "title": "STUDENT AFFAIRS DIRCTORATE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/map-and-directions"
+            },
+            {
+                "title": "HUMAN RESOURCE MAGM’T",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "FINANCE MANAGEMENT",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            {
+                "title": "PROCM’T AND PPTY MAGM’T",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "TECH’L AND GENERAL SERVICE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            {
+                "title": "FACILITY MANAGEMENT",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "COMPOUND SECURITY",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "COMPOUND SAN. & BEAUTY",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+        ]  
+        }
+        ,
+        {
+            "title": "RESEARCH AND TT V/PRESIDENT",
+            
+        "childrens":[
+
+
+
+
+
+            {
+                "title": "RESEARCH DIRECTORATE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/map-and-directions"
+            },
+            {
+                "title": "TECHNOLOGY TRANSFER DIRC’T",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "COMMUNITY SERVICE DIRC’T",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            {
+                "title": "UIL DIRECTORATE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "CENTER OF EXCELLENCE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+        ] 
+        }
+        ,
+        {
+            "title": "INSTITUTIONAL DEV’T & BUSINESS V/PRESIDENT",
+            
+        "childrens":[
+
+
+
+
+            {
+                "title": "ENTERPRISE DIRECTORATE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/map-and-directions"
+            },
+            {
+                "title": "CONSTRUCTION OFFICE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "ICT DIRECTORATE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "FACILITY DIRECTORATE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+        ]  
+        }
+    ]
+}]

@@ -1,0 +1,50 @@
+[ {
+
+    "childrens" :[
+
+        {
+            "title": "STUDENT INFORMATION ",
+
+            "childrens":[
+
+
+                {
+                    "title": "STUDENTS DISCIPLINE GUIDE",
+                    "icon": "bi-info-circle-fill",
+                    "path": "/about/aastu-at-glance/map-and-directions"
+                },
+                
+                {
+                    "title": "STUDENTS HANDBOOK",
+                    "icon": "bi-info-circle-fill",
+                    "path": "/about/aastu-at-glance/aastu-governance"
+                }
+            ]            }
+        ,
+        {
+            "title": "STUDENT UNION",
+            "path": "/life2"   
+        }
+        ,
+        {
+            "title": "STUDENT CLUBS",
+            "path": "/life3"   
+        }
+        ,
+        {
+            "title": "PRINTING & PHOTO COPY",
+            "path": "/life4"   
+        }
+        ,
+        {
+            "title": "STUDENT COUNCIL",
+            "path": "/life5"   
+        }
+        ,
+        {
+            "title": "COUNCELING SERVICEa",
+            "path": "/life6"   
+        }
+
+    ]
+}]

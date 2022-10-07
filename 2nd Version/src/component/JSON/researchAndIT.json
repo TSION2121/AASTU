@@ -1,0 +1,173 @@
+[ {
+   
+    "childrens": [
+        {
+            "title": "RESEARCH DIRECTORATE",
+            
+        "childrens":[
+
+
+
+
+
+
+
+            {
+                "title": "INTERNAL RESEARCH GRANT",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/map-and-directions"
+            },
+            {
+                "title": "ONGOING RESEARCH",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "FUNDING OPPORTUNITIES",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "SPONSORED RESEARCH",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "COMPLETED",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "FUNDED RESEARCH",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "SEMINAR",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+        ]
+        },
+     
+        {
+            "title": "CENTER OF EXCELLENCE",
+            
+        "childrens":[
+
+
+
+            {
+                "title": "THE ARTIFICIAL INTELLIGENCE & ROBOTICS",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/map-and-directions"
+            },
+            {
+                "title": "HIGH-PERFORMANCE COMPUTING AND BIG DATA ANALYTICS",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "MINERAL EXPLORATION, EXTRACTION AND PROCESSING (MEEP COE)",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+        ]
+        },
+        {
+            "title": "TECHNOLOGY TRANSFER DIRECTORATE",
+            
+        "childrens":[
+
+
+
+            {
+                "title": "TECHNICAL TRAINING",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/map-and-directions"
+            },
+            {
+                "title": "STUDENT TECHNOLOGY PROJECT",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "STAFF TECHNOLOGY PROJECT``",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+        ]
+        }
+        ,
+        {
+            "title": "UIL DIRECTORATE",
+            
+        "childrens":[
+
+
+
+
+            {
+                "title": "UIL DIRECTORATE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/map-and-directions"
+            },
+            {
+                "title": "ABOUT UIL IN AASTU",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "PARTNERS",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+            ,
+            
+            {
+                "title": "title-ZONAL FORUMS",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+        ]
+        }
+        ,
+        {
+            "title": "COMMUNITY SERVICE DIRECTORATE",
+            
+        "childrens":[
+
+
+
+            {
+                "title": "COMMUNITY SERVICE",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/map-and-directions"
+            },
+            {
+                "title": "CONSULTANCY",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/media-release"
+            },
+            
+            {
+                "title": "MUSEUM & STEM CENTER",
+                "icon": "bi-info-circle-fill",
+                "path": "/about/aastu-at-glance/aastu-governance"
+            }
+        ]
+        }
+    ]
+}]
